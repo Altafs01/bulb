@@ -1,0 +1,24 @@
+* {
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.bulb{
+    border: 4px solid black;
+    height: 210px;
+    width: 50px;
+    padding: 100px;
+    margin: auto;
+    margin-top: 15%;
+}
+
+.on{
+    padding: 10px 40px;
+    margin: 30px 500px;
+}
